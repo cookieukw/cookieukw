@@ -1,5 +1,6 @@
 ### Hello World
 <div align="center">
+<h4>About me:</h4> <ul> <li>📚 Studying <strong>Machine learning</strong> to develop features using AI's </li> <li>🎓 Recently completed a technical course and looking for the first job   <li>🌱 Learning more about <strong>ReactJS, NextJS and APIs</strong></li> </ul>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookieukw&show_icons=true&stars,commits,prs,issues,contribs&theme=dracula)
 
