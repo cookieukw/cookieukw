@@ -40,5 +40,12 @@
 
 <br>
 <br>
+<h2 align="center">Skills </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,css,html,vite,github,react,java,vscode,ts,godot,mongodb"/>
+  </a>
+</p>
 
 </div>
